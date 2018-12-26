@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TUBES_UAS</string>
+    <string name="create_account"><font color="#00ff00">text</font></string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="galeri">Galeri</string>
+    <string name="maps">Maps</string>
+    <string name="fasilitas">Fasilitas</string>
+    <string name="logout">Logout</string>
+    <string name="fasilitas_charging">Fasilitas Charging</string>
+    <string name="tersedia_soket_pengisian_daya_ponsel_yang_bisa_dipakai_pengunjung_secara_gratis">Tersedia soket pengisian daya ponsel yang bisa dipakai pengunjung secara gratis.</string>
+    <string name="galeri_foto">Galeri Foto</string>
+    <string name="event_sunday_morning">Event Sunday Morning</string>
+    <string name="kota_batu_dalam_rangka_merayakan_hut_ke_16_dan_menyambut_musim_liburan_2017_jawa_timur_park_1_kembali_menggelar_event_akbar_bertajuk_sunday_morning_urban_gowes_tahes_2017">Kota Batu Dalam rangka merayakan HUT ke -16, dan menyambut musim liburan 2017, Jawa Timur Park 1 kembali menggelar event akbar bertajuk “Sunday Morning, Urban Gowes Tahes 2017</string>
+    <string name="event_romantic_valentine">Event Romantic Valentine</string>
+    <string name="selalu_ada_acara_seru_untuk_memeriahkan_valentine_jatim_park_1_telah_menyelenggarakan_event_untuk_komunitas_dancer_hingga_ketujuh_kalinya">Selalu ada acara seru untuk memeriahkan Valentine! Jatim Park 1 telah menyelenggarakan event untuk komunitas dancer hingga ketujuh kalinya.</string>
+    <string name="back">Back</string>
+    <string name="jawa_timur_park_group">Jawa Timur Park Group</string>
+    <string name="food_court">Food Court</string>
+    <string name="jalan_jalan_tak_lengkap_tanpa_makanan_lezat_istirahat_sejenak_sembari_menikmati_kuliner_khas_jawa_timur_di_food_court">Jalan-jalan tak lengkap tanpa makanan lezat. Istirahat sejenak sembari menikmati kuliner khas Jawa Timur di food court.</string>
+    <string name="fasilitas_medical_care">Fasilitas Medical Care</string>
+    <string name="untuk_pengunjung_yang_memerlukan_penanganan_ekstra_dan_segera_tersedia_ambulans_gratis_berstandar_medis_yang_siaga_menuju_ke_klinik_terdekat">Untuk pengunjung yang memerlukan penanganan ekstra dan segera, tersedia ambulans gratis berstandar medis, yang siaga menuju ke klinik terdekat.</string>
+    <string name="shuttle_car">Shuttle Car</string>
+    <string name="tidak_perlu_risau_dengan_area_wahana_yang_luas_bila_kamu_ingin_sedikit_menyimpan_tenaga_kereta_mini_ini_akan_menjadi_transportasimu_gratis">Tidak perlu risau dengan area wahana yang luas. Bila kamu ingin sedikit menyimpan tenaga, kereta mini ini akan menjadi transportasimu. Gratis!</string>
+    <string name="input_email">Input Email</string>
+    <string name="input_password">Input Password</string>
+    <string name="submit">submit</string>
+    <string name="charging_zone">Charging Zone</string>
+    <string name="medical_care">Medical Care</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#607d8b</color>
+    <color name="colorPrimaryDark">#455a64</color>
+    <color name="colorAccent">#0c0099</color>
+
+    <color name="merahTua">#8D230F</color>
+    <color name="birdong">#1E434C</color>
+    <color name="coklat">#9B4F0F</color>
+    <color name="kuning">#C99E10</color>
+    <color name="cream">#fffdd0</color>
+    <color name="white">#ffffff</color>
+    <color name="maroon">#8D230F</color>
+    <color name="coklat_kuis">#9B4F0F</color>
+    <color name="kuning_tua_kuis">#C99E10</color>
+    <color name="hitam">#000000</color>
+    <color name="putih">#ffffff</color>
+
+</resources>

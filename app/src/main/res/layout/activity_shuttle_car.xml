@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#C99E10"
+    android:orientation="vertical"
+    tools:context=".ShuttleCar"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/shuttle_car"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:textColor="#000000"/>
+
+    <ImageView
+        android:layout_width="400dp"
+        android:layout_height="300dp"
+        android:layout_margin="10dp"
+        android:layout_marginLeft="10dp"
+        android:src="@drawable/shuttle"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tidak_perlu_risau_dengan_area_wahana_yang_luas_bila_kamu_ingin_sedikit_menyimpan_tenaga_kereta_mini_ini_akan_menjadi_transportasimu_gratis"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_marginLeft="20dp"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="3">
+
+        <Button
+            android:id="@+id/ButtonBack5"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="60dp"
+            android:background="@drawable/back" />
+
+    </LinearLayout>
+
+</LinearLayout>
